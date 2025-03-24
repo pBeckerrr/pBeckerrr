@@ -2,7 +2,11 @@
 
 **`Analista de Dados & Power Bi`**
 
-Meu nome é Paulo Becker, moro em Curitiba/PR, tenho 26 anos, Minha jornada com tecnologia começou aos 14 anos, quando desenvolvi meus primeiros sites explorando ferramentas para desenvolvimento web. Em 2014, criei um marketplace inspirado na AliExpress, "Egon Store" para explorar modelos de importação e dropshipping no Brasil. Você pode conferir um rascunho deste site "[aqui.](https://upperdota.wixsite.com/egon)" Embora este meu projeto não tenha seguido adiante, essa experiência me ensinou muito sobre tecnologia, linguagem HTML, visão de mercado e solução de problemas. Em 2016, ingressei no Exército, onde trabalhei no departamento de TI, aprimorando habilidades em suporte a sistemas e disciplina operacional.
+Meu nome é Paulo Becker, moro em Curitiba/PR, tenho 26 anos, Minha jornada com tecnologia começou aos 14 anos, quando desenvolvi meus primeiros sites explorando ferramentas para desenvolvimento web.
+
+Em 2014, criei um marketplace inspirado na AliExpress, "Egon Store" para explorar modelos de importação e dropshipping no Brasil. Você pode conferir um rascunho deste site "[aqui.](https://upperdota.wixsite.com/egon)" Embora este meu projeto não tenha seguido adiante, essa experiência me ensinou muito sobre tecnologia, linguagem HTML, visão de mercado e solução de problemas.
+
+Em 2016, ingressei no Exército, onde trabalhei no departamento de TI, aprimorando habilidades em suporte a sistemas e disciplina operacional.
 
 ### 🌐 Tecnologias
 
@@ -28,19 +32,24 @@ Meu nome é Paulo Becker, moro em Curitiba/PR, tenho 26 anos, Minha jornada com 
 
 ### 📊 Estastísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pBeckerrr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pBeckerrr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 📊 Estatísticas
 
-</p>
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Langs" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
+
