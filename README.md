@@ -10,7 +10,7 @@ Em 2014, criei um marketplace inspirado na AliExpress, "Egon Store" para explora
 
 Em 2016, ingressei no Exército, onde trabalhei no departamento de TI, aprimorando habilidades em suporte a sistemas e disciplina operacional.
 
-Em 2023, desenvolvi este [site](https://www.moquiridu.com.br) e um bot em Python para Whatsapp, junto a um desenvolvedor para Assistência Técnica Mo Quiridu.
+Em 2023, desenvolvi um site e um bot em Python para Whatsapp, junto a um desenvolvedor para Assistência Técnica Mo Quiridu. Você pode conferir este site "[aqui.](https://www.moquiridu.com.br)"
 
 ### 🌐 Tecnologias
 
