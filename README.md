@@ -1,8 +1,11 @@
 # 🔰 Paulo Becker
 
+26 anos
+Curitiba/PR
+
 **`Analista de Dados & Power Bi`**
 
-Meu nome é Paulo Becker, moro em Curitiba/PR, tenho 26 anos, Minha jornada com tecnologia começou aos 14 anos, quando desenvolvi meus primeiros sites explorando ferramentas para desenvolvimento web.
+Minha jornada com tecnologia começou aos 14 anos, quando desenvolvi meus primeiros sites explorando ferramentas para desenvolvimento web.
 
 Em 2014, criei um marketplace inspirado na AliExpress, "Egon Store" para explorar modelos de importação e dropshipping no Brasil. Você pode conferir um rascunho deste site "[aqui.](https://upperdota.wixsite.com/egon)" Embora este meu projeto não tenha seguido adiante, essa experiência me ensinou muito sobre tecnologia, visão de mercado e solução de problemas.
 
