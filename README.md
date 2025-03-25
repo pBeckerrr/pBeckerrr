@@ -1,7 +1,6 @@
 # 🔰 Paulo Becker
 
-26 anos
-Curitiba/PR
+26 anos - Curitiba/PR
 
 **`Analista de Dados & Power Bi`**
 
